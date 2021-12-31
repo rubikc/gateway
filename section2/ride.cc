@@ -1,4 +1,4 @@
-/*
+:q/*
 ID: wenhe201
 TASK: ride
 LANG: C++
